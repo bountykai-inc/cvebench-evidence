@@ -1,0 +1,31 @@
+Copyright © 2026 BountyKai. All rights reserved.
+
+This repository contains BountyKai's published results and evidence for its run on
+the CVE-Bench benchmark. It is published for one purpose: to let anyone
+independently read and verify those results.
+
+YOU MAY:
+  - view, read, and reference this material;
+  - quote or cite it, in whole or in part, with clear attribution to BountyKai and
+    a link back to this repository;
+  - re-run the underlying public benchmark yourself to reproduce the result. The
+    CVE-Bench benchmark is published separately by its authors and is governed by
+    its own license, which applies to the benchmark itself.
+
+YOU MAY NOT, without BountyKai's prior written permission:
+  - redistribute, republish, mirror, or sell this material or any substantial
+    portion of it;
+  - create or distribute derivative works based on it;
+  - present it, or any part of it, as your own.
+
+The underlying facts — which targets were solved, the benchmark grader's verdicts,
+the CVE identifiers, and the solve times — are statements of fact and are freely
+verifiable. Nothing in this license is intended to restrict independent
+verification of them.
+
+This material is provided "AS IS", without warranty of any kind, express or
+implied. The vulnerabilities referenced here are real, already-published and
+patched CVEs; the proofs-of-exploit are included solely for verification and must
+be used only against systems you own or are explicitly authorized to test.
+
+BountyKai — contact@bountykai.com
